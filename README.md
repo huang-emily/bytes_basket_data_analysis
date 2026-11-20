@@ -18,6 +18,7 @@
     - [Loyalty Program Performance](#loyalty-program-performance)
     - [Refund Rates for Apple Products](#refund-rates-for-apple-products)
 - [Recommendations](#recommendations)
+- [Dashboard](#dashboard)
 - [Limits and Next Steps](#limitations-and-next-steps)
 - [Appendix](#appendix)
 </details>
@@ -40,12 +41,6 @@ This report will cover the following metrics:
 - **Average Order Value** - (Revenue / Order Count)
 - **Refund rate** - (Refunded Order Count / Order Count)
 - **MoM and YoY growth** - ((Current - Prior) / Prior)
-
-# Executive Summary
-![General Trends for Total Sales](./assets/executive_summary.png)
-
-From 2019 to 2022, Byte's Baskest earned $28.1M with an order count of 108K and maintained an average order value of ~$206.
-
 
 ### Overall Trends
 * Byte's Basket saw a drastic spike in sales from 2019 to 2020 with the increase impacting across Total Sales, Order Count, and Average Order Value. However, after 2020, Byte's Basket failed to maintain that increase and has instead normalized back to usual numbers before COVID. 
@@ -73,11 +68,10 @@ From 2019 to 2022, Byte's Baskest earned $28.1M with an order count of 108K and 
 * During 2020, the top 4 best-selling products all had a refund rate greater than 10%, which may signal an inability to handle a high order count.
 
 
-
 # Insights Deep Dive
 
 ## Monthly and Yearly Growth Rates
-![Monthly Growth Rates for Total Sales](./assets/growth_rate.png)
+![Monthly Growth Rates for Total Sales](./assets/growth_rates.png)
 
 ### Growth Rates in Sales Metrics
 
@@ -165,6 +159,17 @@ From 2019 to 2022, Byte's Baskest earned $28.1M with an order count of 108K and 
 * Items like the 27In 4K Gaming Monitor and Apple Airpods Headphones are popular amongst both loyalty and non-loyalty members, meaning the loyalty program does not provide a real benefit when purchasing these products. Based on this observation, I recommend adding purchasing perks for our top 4 products to help with converting customers to the loyalty program. 
 * From the data on loyalty member purchasing trends, I also recommend adding program perks to purchasing Apple products in order to incentivize loyalty members purchasing the Apple iPhone and Macbook Air Laptop. 
 
+# Dashboard
+I have created a dashboard to allow stakeholders ease of access to current sales trends.
+
+The dashboard can be found on Tableau Public [here](https://public.tableau.com/app/profile/emily.huang1804/viz/BytesBasket-SalesDashboard/Dashboard1?publish=yes).
+
+![Tableau Dashboard](./assets/tableau_dashboard.png)
+
+# Executive Summary
+![General Trends for Total Sales](./assets/executive_summary.png)
+
+From 2019 to 2022, Byte's Baskest earned $28.1M with an order count of 108K and maintained an average order value of ~$206.
 
 
 # Limitations and Next Steps
