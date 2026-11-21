@@ -42,6 +42,9 @@ This report will cover the following metrics:
 - **Refund rate** - (Refunded Order Count / Order Count)
 - **MoM and YoY growth** - ((Current - Prior) / Prior)
 
+# Executive Summary
+![Overall Sales Trends](./assets/overall_sales.png)
+
 ### Overall Trends
 * Byte's Basket saw a drastic spike in sales from 2019 to 2020 with the increase impacting across Total Sales, Order Count, and Average Order Value. However, after 2020, Byte's Basket failed to maintain that increase and has instead normalized back to usual numbers before COVID. 
 
@@ -71,7 +74,7 @@ This report will cover the following metrics:
 # Insights Deep Dive
 
 ## Monthly and Yearly Growth Rates
-![Monthly Growth Rates for Total Sales](./assets/growth_rates.png)
+![Monthly Growth Rates for Total Sales](./assets/mom_growth.png)
 
 ### Growth Rates in Sales Metrics
 
@@ -123,7 +126,7 @@ This report will cover the following metrics:
 
 
 ## Refund Rates for Apple Products
-![Yearly Refund Rates](./assets/refund_rates.png)
+![Yearly Refund Rates](./assets/product_refunds.png)
 
 
 ### Yearly Refund Rates for Apple Products
