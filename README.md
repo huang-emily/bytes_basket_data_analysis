@@ -165,7 +165,7 @@ This report will cover the following metrics:
 # Dashboard
 I have created a dashboard to allow stakeholders ease of access to current sales trends.
 
-The dashboard can be found on Tableau Public [here](https://public.tableau.com/app/profile/emily.huang1804/viz/BytesBasket-SalesDashboard/Dashboard1?publish=yes).
+The dashboard can be found on Tableau Public [here](https://public.tableau.com/app/profile/emily.huang1804/viz/BytesBasket-SalesDashboard/Sales).
 
 ![Tableau Dashboard](./assets/tableau_dashboard.png)
 
