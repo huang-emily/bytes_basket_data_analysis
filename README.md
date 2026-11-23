@@ -43,7 +43,7 @@ This report will cover the following metrics:
 - **MoM and YoY growth** - ((Current - Prior) / Prior)
 
 # Executive Summary
-![Overall Sales Trends](./assets/overall_sales.png)
+![Overall Sales Trends](./assets/overall_sales_trend.png)
 
 ### Overall Trends
 * Byte's Basket saw a drastic spike in sales from 2019 to 2020 with the increase impacting across Total Sales, Order Count, and Average Order Value. However, after 2020, Byte's Basket failed to maintain that increase and has instead normalized back to usual numbers before COVID. 
@@ -168,12 +168,6 @@ I have created a dashboard to allow stakeholders ease of access to current sales
 The dashboard can be found on Tableau Public [here](https://public.tableau.com/app/profile/emily.huang1804/viz/BytesBasket-SalesDashboard/Sales).
 
 ![Tableau Dashboard](./assets/tableau_dashboard.png)
-
-# Executive Summary
-![General Trends for Total Sales](./assets/executive_summary.png)
-
-From 2019 to 2022, Byte's Baskest earned $28.1M with an order count of 108K and maintained an average order value of ~$206.
-
 
 # Limitations and Next Steps
 
