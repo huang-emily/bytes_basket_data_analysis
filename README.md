@@ -43,7 +43,7 @@ This report will cover the following metrics:
 - **MoM and YoY growth** - ((Current - Prior) / Prior)
 
 # Executive Summary
-![Overall Sales Trends](./assets/overall_sales_trend.png)
+![Overall Sales Trends](./assets/overall_sales_trends.png)
 
 ### Overall Trends
 * Byte's Basket saw a drastic spike in sales from 2019 to 2020 with the increase impacting across Total Sales, Order Count, and Average Order Value. However, after 2020, Byte's Basket failed to maintain that increase and has instead normalized back to usual numbers before COVID. 
@@ -97,7 +97,7 @@ This report will cover the following metrics:
 
 
 ## Loyalty Program Performance
-![Monthly Loyalty Program % for Order Count](./assets/loyalty_program.png)
+![Monthly Loyalty Program % for Order Count](./assets/loyalty_percent.png)
 
 
 ### Sales Trends of Loyalty Members vs. Non-Loyalty Members
